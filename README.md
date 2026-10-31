@@ -1,3 +1,10 @@
+> **下载说明**
+> 推荐通过百度网盘下载（含完整 release 文件，可用提取码获取），无需访问 GitHub：
+> **百度网盘**：https://pan.baidu.com/s/16a6yJV-1_8V5b0scQlQm8w?pwd=6kpj
+>
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/March7thAssistant-CN/releases) 下载。
+
+
 <div align="center">
   <h1 align="center">
     <img src="./assets/screenshot/March7th.png" width="200">
