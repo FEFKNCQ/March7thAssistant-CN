@@ -1,4 +1,13 @@
 > **下载说明**
+> 优先推荐从百度网盘下载（含完整 release 文件，可用提取码获取），无需访问 GitHub：
+> **百度网盘**：https://pan.baidu.com/s/16a6yJV-1_8V5b0scQlQm8w?pwd=6kpj
+>
+> **夸克网盘**：https://pan.quark.cn/s/18d9b9b665ee
+>
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/March7thAssistant-CN/releases) 下载。
+
+
+> **下载说明**
 > 推荐通过百度网盘下载（含完整 release 文件，可用提取码获取），无需访问 GitHub：
 > **百度网盘**：https://pan.baidu.com/s/16a6yJV-1_8V5b0scQlQm8w?pwd=6kpj
 >
